@@ -6,3 +6,4 @@ Problem statements include most used use cases as follows
 
 - Churn Prediction
 - Customer Life time Value Prediction
+- Customer Segmentation
